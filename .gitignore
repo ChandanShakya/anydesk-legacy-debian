@@ -1,0 +1,6 @@
+*.deb
+*.log
+*.swp
+*~
+.DS_Store
+tmp/
